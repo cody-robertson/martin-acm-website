@@ -113,8 +113,4 @@ venv.bak/
 out
 gen
 .idea/
-Pipfile
-Pipfile.lock
-acm_website_project/
-home/
-manage.py
+
