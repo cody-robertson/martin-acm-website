@@ -12,3 +12,7 @@ Set everything up better with database support and some dynamic
 stuff, maybe some games or something, a list of members, etc.  If 
 you have ideas shoot over an email or open an issue.
 
+## Notes
+Maintenance image taken from
+https://pixabay.com/en/maintenance-under-construction-2422173/
+offered under a CC0 license
