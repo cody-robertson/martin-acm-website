@@ -12,6 +12,17 @@ Set everything up better with database support and some dynamic
 stuff, maybe some games or something, a list of members, etc.  If 
 you have ideas shoot over an email or open an issue.
 
+## TODO
+ - [ ] Add a contact link that will email all officers
+ - [ ] Add some style - use css
+ - [ ] Add some style - use bootstrap 4
+ - [ ] Add a links page - link to ACM members sites
+ - [ ] Add backend and database - I beleive the cs servers alread have
+ php and mySQL installed. - Check with Dr. Ericson
+ - [ ] Add a proper calendar page
+ - [ ] Use jquery or straight javascript to add some cool stuff, maybe hide
+ the officers names until a mouse hovers over the Officers heading.
+ 
 ## Notes
 Maintenance image taken from
 https://pixabay.com/en/maintenance-under-construction-2422173/
