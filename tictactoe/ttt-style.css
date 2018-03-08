@@ -1,0 +1,76 @@
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 75px;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  line-height: 60%;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+}
+
+.title {
+  text-align: center;
+}
+
+.choice {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.point {
+  cursor: pointer;
+}
+
+.square {
+  height: 120px;
+  text-align: center;
+}
+
+.upperLeft {
+  border-right: solid 3px black;
+  border-bottom: solid 3px black;
+}
+
+.upperMiddle {
+  border-bottom: solid 3px black;
+}
+
+.upperRight {
+ border-left: solid 3px black;
+ border-bottom: solid 3px black;
+}
+
+.midLeft {
+  border-right: solid 3px black;
+}
+
+.midRight {
+ border-left: solid 3px black;
+}
+
+.bottomLeft {
+  border-top: solid 3px black;
+  border-right: solid 3px black;
+}
+
+.bottomMiddle {
+  border-top: solid 3px black;
+}
+
+.bottomRight {
+  border-left: solid 3px black;
+  border-top: solid 3px black;
+}
+
+.spacer {
+  height: 30px;
+}
